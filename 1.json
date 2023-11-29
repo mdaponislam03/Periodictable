@@ -1,0 +1,14 @@
+const elements = [
+    {
+      name: 'Hydrogen',
+      symbol: 'H',
+      atomicNumber: 1,
+      atomicMass: 1.008,
+    },
+    {
+      name: 'Oxygen',
+      symbol: 'O',
+      atomicNumber: 8,
+      atomicMass: 15.999,
+    },
+  ];
