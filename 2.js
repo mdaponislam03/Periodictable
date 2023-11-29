@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+const { name, symbol, atomicNumber, atomicMass } = elements[1];
+
 
 app.get('/elements', (req, res) => {
   const elements = [
